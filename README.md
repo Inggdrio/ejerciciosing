@@ -1,6 +1,6 @@
 # Ejercicios de Programación
 
-Este repositorio contiene la solución del taller de nivelación de Programación I a Programación II (UNIAJC).
+Este repositorio contiene la solución del taller de nivelación de Programación I a Programación II.
 
 ## Contenido
 
@@ -8,12 +8,3 @@ Este repositorio contiene la solución del taller de nivelación de Programació
 - Calculadora.java: calculadora básica con suma, resta, multiplicación y división.
 - ContadorVocalesConsonantes.java: cuenta las vocales y consonantes de una palabra.
 - InvertirCadena.java: invierte un texto ingresado por el usuario.
-
-## Cómo ejecutar
-
-```bash
-javac Calculadora.java
-java Calculadora
-```
-
-(igual para los otros dos archivos)
