@@ -1,6 +1,6 @@
 # Parte Teórica
 
-Taller de nivelación PI a PII - UNIAJC
+Taller de nivelación PI a PII
 
 ## ¿Qué es Markdown?
 
